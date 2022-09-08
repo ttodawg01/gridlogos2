@@ -1,0 +1,36 @@
+img {
+    width: 150px;
+    height: auto;
+    border:1px solid black;
+}
+/* body {
+    margin: 0px;
+    padding: 0px;
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 2fr;
+    grid-template-rows: 0fr;
+} */
+main {
+    /* background-color: gray; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    justify-content: ;
+}
+#amazon{
+    flex-shrink: 1;
+ }
+ 
+ #adidas{
+     flex-shrink:1;
+ }
+ 
+ #apple{
+     flex-shrink:2;
+ }
+ 
+ #beats{
+     flex-shrink: 1;
+ }
